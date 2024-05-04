@@ -1,0 +1,15 @@
+.container{
+    .row{
+        .cl{
+            .crd{
+                cursor: pointer;
+                transition: .5s;
+            }
+            .crd:hover
+            {
+                scale: 1.2;
+            }
+        }
+    }
+    
+}
